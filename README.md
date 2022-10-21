@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.4.
 
+## Heroes_DB
+Dentro de nuestro directorio encontraremos una carpetta llamada "heroes_db" con un archivo dentro nombrado "db.json" el mismo lo utilizamos para simular nuestra base de datos de heroes. Lo ejecutamos en la terminal con el siguiente comando "json-server --watch db.json".
+https://www.npmjs.com/package/json-server
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
